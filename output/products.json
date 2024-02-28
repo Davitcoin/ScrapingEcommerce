@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Microsoft 365 Personal, 1 Usuario, 5 Dispositivos, 1 Año, Plurilingüe, Windows/Mac/Android/iOS",
+    "price": "$859.00",
+    "image": "https://www.cyberpuerta.mx/img/product/S/CP-MICROSOFT-QQ2-00008-5e0502.png",
+    "link": "https://www.abasteo.mx/Software-y-Servicios/Microsoft-365/Microsoft-365-Personal-1-Usuario-5-Dispositivos-1-Ano-Plurilingue-Windows-dg-Mac-dg-Android-dg-iOS.html"
+  },
+  {
+    "title": "SSD Adata Ultimate SU630, 480GB, SATA, 2.5\", 7mm",
+    "price": "$492.00",
+    "image": "https://www.cyberpuerta.mx/img/product/S/CP-ADATA-ASU630SS-480GQ-R-95bfa6.jpg",
+    "link": "https://www.abasteo.mx/Almacenamiento-de-Datos/Discos-Duros-SSD-NAS/SSD/SSD-Adata-Ultimate-SU630-480GB-SATA-2-5-7mm.html"
+  },
+  {
+    "title": "Microsoft 365 Familia, 5 Dispositivos, 6 Usuarios, Plurilingüe, 1 Año, Windows/Mac/Android/iOS",
+    "price": "$1,149.00",
+    "image": "https://www.cyberpuerta.mx/img/product/S/CP-MICROSOFT-6GQ-00088-b554d6.png",
+    "link": "https://www.abasteo.mx/Software-y-Servicios/Microsoft-365/Microsoft-365-Familia-5-Dispositivos-6-Usuarios-Plurilingue-1-Ano-Windows-dg-Mac-dg-Android-dg-iOS.html"
+  },
+  {
+    "title": "SSD Western Digital WD Green, 480GB, SATA III, 2.5\"",
+    "price": "$487.00",
+    "image": "https://www.cyberpuerta.mx/img/product/S/CP-WESTERNDIGITAL-WDS480G3G0A-2d989d.jpg",
+    "link": "https://www.abasteo.mx/Almacenamiento-de-Datos/Discos-Duros-SSD-NAS/SSD/SSD-Western-Digital-WD-Green-480GB-SATA-III-2-5.html"
+  },
+  {
+    "title": "Laptop Dell Vostro 3530 15.6\" Full HD, Intel Core i5-1335U 3.40GHz, 16GB, 512GB SSD, Windows 11 Pro 64-bit, Español, Negro",
+    "price": "$16,399.00",
+    "image": "https://www.cyberpuerta.mx/img/product/S/CP-DELL-CGP3J-2e1b51.jpg",
+    "link": "https://www.abasteo.mx/Desktop-y-Portatiles/Laptops/Laptop-Dell-Vostro-3530-15-6-Full-HD-Intel-Core-i5-1335U-3-40GHz-16GB-512GB-SSD-Windows-11-Pro-64-bit-Espanol-Negro.html"
+  },
+  {
+    "title": "Epson TM-T20III Impresora de Tickets, Térmico, 203 x 203DPI, Serial/USB, Negro",
+    "price": "$3,869.00",
+    "image": "https://www.cyberpuerta.mx/img/product/S/CP-EPSON-C31CH51001-1.jpg",
+    "link": "https://www.abasteo.mx/Punto-de-Venta-POS/Impresoras-de-Tickets/Epson-TM-T20III-Impresora-de-Tickets-Termico-203-x-203DPI-Serial-dg-USB-Negro.html"
+  }
+]

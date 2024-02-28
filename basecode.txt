@@ -1,0 +1,1020 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Abasteo.mx - Proveedor Moderno de TI para Empresas en México</title>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=device-width, initial-scale=.05">
+<meta name="description" content="Proveedor de Computadoras, Hardware y Soluciones TI para empresas Mexicanas. &#10003;Precios accesibles &#10003;Servicio personalizado &#10003;40,000 productos &#10003;10 años en el mercado &#10003;30,000+ clientes empresariales">
+<meta name="keywords" content="electronicos en-linea">
+<link rel="canonical" href="https://www.abasteo.mx/">
+<script type="application/json" id="cp-env-data">
+            {"cl":"start","shopUrl":"https:\/\/www.abasteo.mx","enableBanners":1708840800,"bannersFindUrl":"https:\/\/us-central1-cyberpuerta-144818.cloudfunctions.net\/cp-banner-find","bannersExpires":1708876811,"bannerPlaces":["side-left","side-right","cpx-home-main","cpx-home-middle-1","cpx-home-middle-2","cpx-home-middle-3","page-top"],"bannerContext":[],"baseShopId":"4fb0521bdfe67","shopPrefix":"ab","env":"prod","restrictionGroup":"1","restrictionGroupName":"Cyberpuerta","sessionToken":"","sessionId":null,"apiVersion":"v0.1","etaCalculatorUri":"https:\/\/cp-eta-calculator-e346qjngfq-uc.a.run.app","etaCalculatorExpires":1708482420,"additional":null,"noSpa":false,"showVat":true,"rai":true,"recommendationByCart":false,"fid":{"enabled":true,"gsi_clientId":"594924416674-nlqe9j99lab7qr50sefciag0dkugusp8.apps.googleusercontent.com","gsi_clientId_android":"1044917490556-9kvrnb85iao90rr8ejf6l4ksd5idut33.apps.googleusercontent.com","gsi_clientId_ios":"1044917490556-nqt66sdvhcel94loopng83jvjle8g4va.apps.googleusercontent.com","apple_clientId":"mx.cyberpuerta","autoLink":false,"autoRegister":false,"canAddPasswordAgain":true,"requirePasswordToLink":true},"cpAdditionalTaxInfo":true,"catalogExpires":"20240215161511"}
+        </script>
+<script type="application/json" id="cp-layout-view-data">
+            {"initialCategories":[],"moreCategoriesUrl":"https://www.abasteo.mx/out/generated/main-menu/6-oxrootid-1707746757.json","menuUrl":"https://www.abasteo.mx/out/generated/main-menu/main-1707746755.json","basket":{"empty":true,"articles":[],"linkNextStep":null,"numberOfItems":null,"savedItems":[],"numberOfSavedArticles":null,"linkToOffers":null,"saldoData":null,"messagesValidation":null,"errors":null,"forceOpen":null,"msiData":null,"summary":null},"beforeCategories":[{"title":"Inicio","icon":"cp-menu-icon8","href":"https://www.abasteo.mx/","template":""},{"title":"Mi cuenta","icon":"cp-menu-icon5","href":"","template":"cp-ko-user-menu"}],"afterCategories":[{"title":"Otras\u003Cbr\u003Ecategor\u00edas","icon":"cp-menu-icon7","href":"","template":"cp-ko-category-menu2"},{"title":"M\u00e1s\u003Cbr\u003Einformaci\u00f3n","icon":"cp-menu-icon3","href":"","template":"cp-ko-moreinfo-menu"}],"simpleHeader":false,"accountUrls":[{"url":"https://www.abasteo.mx/mi-cuenta/","lang":"Mi cuenta"},{"url":"https://www.abasteo.mx/mis-pedidos/","lang":"Mis pedidos"},{"url":"https://www.abasteo.mx/mis-cotizaciones/","lang":"Mis cotizaciones"},{"url":"https://www.abasteo.mx/libreta-de-direcciones/","lang":"Datos de env\u00edo, pago y facturaci\u00f3n"},{"url":"https://www.abasteo.mx/mis-opiniones/","lang":"Mis opiniones"},{"url":"https://www.abasteo.mx/mis-reembolsos/","lang":"Mis reembolsos"},{"url":"https://www.abasteo.mx/configuracion-de-cuenta/","lang":"Configuraci\u00f3n de cuenta"},{"url":"https://www.abasteo.mx/Centro-de-Informacion/","lang":"Centro de informaci\u00f3n"}],"myAccountMenuUrls":[{"url":"/mi-cuenta/","lang":"Mi cuenta","isSpaLink":true},{"url":"/mis-pedidos/","lang":"Mis pedidos"},{"url":"https://www.abasteo.mx/mis-cotizaciones/","lang":"Mis cotizaciones"},{"url":"https://www.abasteo.mx/libreta-de-direcciones/","lang":"Datos de env\u00edo, pago y facturaci\u00f3n"},{"url":"https://www.abasteo.mx/mis-opiniones/","lang":"Mis opiniones"},{"url":"https://www.abasteo.mx/mis-reembolsos/","lang":"Mis reembolsos"},{"url":"https://www.abasteo.mx/Centro-de-Informacion/","lang":"Centro de informaci\u00f3n"},{"url":"/configuracion-de-cuenta/","lang":"Configuraci\u00f3n de cuenta","isSpaLink":true,"subUrls":[{"url":"/configuracion-de-cuenta/usuario","lang":"Datos de mi cuenta","isSpaLink":true},{"url":"/configuracion-de-cuenta/seguridad","lang":"Seguridad","isSpaLink":true},{"url":"/configuracion-de-cuenta/email","lang":"Preferencias de correo","isSpaLink":true}]}],"mgmtMenuUrls":[{"url":"/configuracion-de-cuenta/usuario","lang":"Panel de administrador","isSpaLink":true},{"url":"/configuracion-de-cuenta/usuario","lang":"Administrar usuarios","isSpaLink":true},{"url":"/configuracion-de-cuenta/usuario","lang":"Administrar roles","isSpaLink":true},{"url":"/configuracion-de-cuenta/usuario","lang":"Directorio de contactos","isSpaLink":true},{"url":"/configuracion-de-cuenta/","lang":"Configuraciones y restricciones","isSpaLink":true,"subUrls":[{"url":"/configuracion-de-cuenta/usuario","lang":"Configuraciones de seguridad","isSpaLink":true},{"url":"/configuracion-de-cuenta/seguridad","lang":"Configurar cotizaciones compartidas","isSpaLink":true},{"url":"/configuracion-de-cuenta/email","lang":"Restringir formas de env\u00edo y pago","isSpaLink":true},{"url":"/configuracion-de-cuenta/usuario","lang":"Restringir cat\u00e1logo de productos","isSpaLink":true}]}],"loginOptions":{"activeClass":"start","navParams":"\u003Cinput type=\"hidden\" name=\"actcontrol\" value=\"start\" /\u003E\n","action":"https://www.abasteo.mx/index.php?","errors":[],"sizeOptions":[{"value":"Usuario personal","text":"Usuario personal"},{"value":"Empresario individual","text":"Empresario individual"},{"value":"Hasta 10 empleados","text":"Hasta 10 empleados"},{"value":"Desde 11 hasta 30 empleados","text":"Desde 11 hasta 30 empleados"},{"value":"Desde 31 hasta 50 empleados","text":"Desde 31 hasta 50 empleados"},{"value":"Desde 51 hasta 100 empleados","text":"Desde 51 hasta 100 empleados"},{"value":"Desde 101 hasta 250 empleados","text":"Desde 101 hasta 250 empleados"},{"value":"Desde 250 empleados","text":"Desde 250 empleados"}],"industryOptions":[{"value":"Industria","text":"Industria"},{"value":"Comercio","text":"Comercio"},{"value":"Servicios","text":"Servicios"},{"value":"Educaci\u00f3n","text":"Educaci\u00f3n"},{"value":"Gobierno","text":"Gobierno"}],"loginLink":"https://www.abasteo.mx/web/account/login","logoutLink":"https://www.abasteo.mx/web/account/logout","createAccountLink":"https://www.abasteo.mx/crear-cuenta/","forgotPasswordLink":"https://www.abasteo.mx/recuperar-contrasena/","registerData":{"newsSuscribed":false,"email":null}},"showProgressBar":false,"basketUrl":"https://www.abasteo.mx/index.php?cl=basket","homeLink":"https://www.abasteo.mx/","actionLink":"https://www.abasteo.mx/","searchParam":"","gtmVariables":[{"shop_cl":"start"},{"ab1047_pixel":0},{"sess_tk":"BCFBF865"},{"internal_user":0},{"new_customer":false}],"rfcPattern":"^([A-Z\u00d1&]{3,4}([0-9]{2})(0[1-9]|1[0-2])(0[1-9]|1[0-9]|2[0-9]|3[0-1]))([A-Z0-9]{2}[A0-9])$","rfcGenericNationalPattern":"XAXX010101000","rfcGenericForeignPattern":"XEXX010101000","bestOffersUrl":"https://www.abasteo.mx/Las-Mejores-Ofertas/"}
+        </script>
+<script type="application/json" id="cp-view-data">
+        {
+    "dailyOffers": [
+        "9a31926b8d52b3b669a7904f154995e4",
+        "d00639cd86fdcb285b0bbce27ca70ee6",
+        "4d660e1fd75aa16822a35e2283035489",
+        "d58dba11fa5f2d2b7485c7375eeed4be",
+        "6055d3c04abdcc8dbb7dcd514e12f7a1",
+        "1ac9a66a9f34bb820549163f53a9239e",
+        "c009c2edc72aec2eea7df9e033eaa7b3",
+        "82e7742f53ad2f3145e7d59cec1959e5",
+        "3ba6e2770661e84af47055d3a952895a",
+        "4f79929979f6083a1d344a4a5adf3b0a"
+    ],
+    "brands": [
+        {
+            "id": "e6fc8ce107f2bdf0955f021a391514ce",
+            "title": "HP",
+            "link": "https://www.abasteo.mx/Fabricante/HP/",
+            "image": "https://cdn.cyberpuerta.mx/storage/brands/e6fc8ce107f2bdf0955f021a391514ce_hp.png",
+            "parentId": null,
+            "subCategories": null,
+            "path": null,
+            "hasSubCategories": false
+        },
+        {
+            "id": "67243b4384dbf4c379f1b7ea112742bd",
+            "title": "WESTERN DIGITAL",
+            "link": "https://www.abasteo.mx/Fabricante/WESTERN-DIGITAL/",
+            "image": "https://cdn.cyberpuerta.mx/storage/brands/westernDigital2022.png",
+            "parentId": null,
+            "subCategories": null,
+            "path": null,
+            "hasSubCategories": false
+        },
+        {
+            "id": "86710d43697fb81645a97ac7d79fd1c1",
+            "title": "HISENSE",
+            "link": "https://www.abasteo.mx/Fabricante/HISENSE/",
+            "image": "https://cdn.cyberpuerta.mx/storage/brands/hisense.png",
+            "parentId": null,
+            "subCategories": null,
+            "path": null,
+            "hasSubCategories": false
+        },
+        {
+            "id": "43ee0a7ff98dae4ebf41c6bec8a4ae0e",
+            "title": "LOGITECH",
+            "link": "https://www.abasteo.mx/Fabricante/LOGITECH/",
+            "image": "https://cdn.cyberpuerta.mx/storage/brands/43ee0a7ff98dae4ebf41c6bec8a4ae0e_logitech.png",
+            "parentId": null,
+            "subCategories": null,
+            "path": null,
+            "hasSubCategories": false
+        },
+        {
+            "id": "e8629feac130bde1b4be34fa191e63ce",
+            "title": "ZEBRA",
+            "link": "https://www.abasteo.mx/Fabricante/ZEBRA/",
+            "image": "https://cdn.cyberpuerta.mx/storage/brands/e8629feac130bde1b4be34fa191e63ce_Zebra_Logo.png",
+            "parentId": null,
+            "subCategories": null,
+            "path": null,
+            "hasSubCategories": false
+        },
+        {
+            "id": "04c74ad625352f7093356e441ef69610",
+            "title": "DELL",
+            "link": "https://www.abasteo.mx/Fabricante/DELL/",
+            "image": "https://cdn.cyberpuerta.mx/storage/brands/04c74ad625352f7093356e441ef69610_logodell.png",
+            "parentId": null,
+            "subCategories": null,
+            "path": null,
+            "hasSubCategories": false
+        },
+        {
+            "id": "3138b8e6061fdf7cfaaa79279175cbcd",
+            "title": "LG",
+            "link": "https://www.abasteo.mx/Fabricante/LG/",
+            "image": "https://cdn.cyberpuerta.mx/storage/brands/3138b8e6061fdf7cfaaa79279175cbcd_lg.png",
+            "parentId": null,
+            "subCategories": null,
+            "path": null,
+            "hasSubCategories": false
+        },
+        {
+            "id": "6ef686b32faf3c870b16770ecf4de086",
+            "title": "MICROSOFT",
+            "link": "https://www.abasteo.mx/Fabricante/MICROSOFT/",
+            "image": "https://cdn.cyberpuerta.mx/storage/brands/microsoft.jpg",
+            "parentId": null,
+            "subCategories": null,
+            "path": null,
+            "hasSubCategories": false
+        },
+        {
+            "id": "8ef100497da6dfd3c0bb02f6e9c7b23d",
+            "title": "AMAZON",
+            "link": "https://www.abasteo.mx/Fabricante/AMAZON/",
+            "image": "https://cdn.cyberpuerta.mx/storage/brands/b3b3a6ac74ecbd56bcdbefa4799fb9df_amazon_1.png",
+            "parentId": null,
+            "subCategories": null,
+            "path": null,
+            "hasSubCategories": false
+        },
+        {
+            "id": "5ed0b5f41b21804e51e82664dc24e2dd",
+            "title": "ASUS",
+            "link": "https://www.abasteo.mx/Fabricante/ASUS/",
+            "image": "https://cdn.cyberpuerta.mx/storage/brands/asuslogoa5705fdb70seeklogo.com.png",
+            "parentId": null,
+            "subCategories": null,
+            "path": null,
+            "hasSubCategories": false
+        },
+        {
+            "id": "685903ef83f7a7c8a165f77eed160d9e",
+            "title": "LENOVO",
+            "link": "https://www.abasteo.mx/Fabricante/LENOVO/",
+            "image": "https://cdn.cyberpuerta.mx/storage/brands/685903ef83f7a7c8a165f77eed160d9e_lenovo.png",
+            "parentId": null,
+            "subCategories": null,
+            "path": null,
+            "hasSubCategories": false
+        },
+        {
+            "id": "146ae729839fab95f5876d8aeb381608",
+            "title": "EPSON",
+            "link": "https://www.abasteo.mx/Fabricante/EPSON/",
+            "image": "https://cdn.cyberpuerta.mx/storage/brands/epson.png",
+            "parentId": null,
+            "subCategories": null,
+            "path": null,
+            "hasSubCategories": false
+        },
+        {
+            "id": "f976fb2ecf4847ecb507697a8d02ed3d",
+            "title": "ADATA",
+            "link": "https://www.abasteo.mx/Fabricante/ADATA/",
+            "image": "https://cdn.cyberpuerta.mx/storage/brands/f976fb2ecf4847ecb507697a8d02ed3d_ADATA.png",
+            "parentId": null,
+            "subCategories": null,
+            "path": null,
+            "hasSubCategories": false
+        },
+        {
+            "id": "f9232ef48e81c8fa4eb9a0cafbe1f13d",
+            "title": "INTEL",
+            "link": "https://www.abasteo.mx/Fabricante/INTEL/",
+            "image": "https://cdn.cyberpuerta.mx/storage/brands/intellogo.png",
+            "parentId": null,
+            "subCategories": null,
+            "path": null,
+            "hasSubCategories": false
+        },
+        {
+            "id": "4c462d6dd59d782386bb1cdad0060c70",
+            "title": "APPLE",
+            "link": "https://www.abasteo.mx/Fabricante/APPLE/",
+            "image": "https://cdn.cyberpuerta.mx/storage/brands/shops/apple-ab.png",
+            "parentId": null,
+            "subCategories": null,
+            "path": null,
+            "hasSubCategories": false
+        },
+        {
+            "id": "03b9d9b7b907a3cb052b661ef03e1ed1",
+            "title": "BROTHER",
+            "link": "https://www.abasteo.mx/Fabricante/BROTHER/",
+            "image": "https://cdn.cyberpuerta.mx/storage/brands/brother.jpg",
+            "parentId": null,
+            "subCategories": null,
+            "path": null,
+            "hasSubCategories": false
+        },
+        {
+            "id": "8726e36e9d6d53646390d495b4ce9dc1",
+            "title": "MSI",
+            "link": "https://www.abasteo.mx/Fabricante/MSI/",
+            "image": "https://cdn.cyberpuerta.mx/storage/brands/8726e36e9d6d53646390d495b4ce9dc1_msi.png",
+            "parentId": null,
+            "subCategories": null,
+            "path": null,
+            "hasSubCategories": false
+        },
+        {
+            "id": "0e68f753bc601f5d9d04717f95042762",
+            "title": "APC",
+            "link": "https://www.abasteo.mx/Fabricante/APC/",
+            "image": "https://cdn.cyberpuerta.mx/storage/brands/apcnuevo.png",
+            "parentId": null,
+            "subCategories": null,
+            "path": null,
+            "hasSubCategories": false
+        },
+        {
+            "id": "20e1b3688e94df3f62d35b44df5f7954",
+            "title": "SAMSUNG",
+            "link": "https://www.abasteo.mx/Fabricante/SAMSUNG/",
+            "image": "https://cdn.cyberpuerta.mx/storage/brands/samsung.png",
+            "parentId": null,
+            "subCategories": null,
+            "path": null,
+            "hasSubCategories": false
+        },
+        {
+            "id": "40183069c6b7a5144ac7e7fdffb4f13b",
+            "title": "KINGSTON",
+            "link": "https://www.abasteo.mx/Fabricante/KINGSTON/",
+            "image": "https://cdn.cyberpuerta.mx/storage/brands/KingstonLogo_KTC_Logo_hi_res_18_05_201711_37.jpg",
+            "parentId": null,
+            "subCategories": null,
+            "path": null,
+            "hasSubCategories": false
+        }
+    ],
+    "categories": {
+        "4fe38c01729fcabasteo": {
+            "id": "4fe38c01729fcabasteo",
+            "title": "Desktop y Portátiles",
+            "link": "https://www.abasteo.mx/Desktop-y-Portatiles/",
+            "image": "https://www.abasteo.mx/out/pictures/master/category/icon/desktop-y-portatiles.png",
+            "parentId": "",
+            "subCategories": null,
+            "path": [],
+            "hasSubCategories": true
+        },
+        "08267a3e1268133fbfb699cee1a459d9": {
+            "id": "08267a3e1268133fbfb699cee1a459d9",
+            "title": "Cómputo y Hardware",
+            "link": "https://www.abasteo.mx/Computo-y-Hardware/",
+            "image": "https://www.abasteo.mx/out/pictures/master/category/icon/computo-hardware.png",
+            "parentId": "",
+            "subCategories": null,
+            "path": [],
+            "hasSubCategories": true
+        },
+        "9645fcbbdab34cd312f27fdebd3d34ee": {
+            "id": "9645fcbbdab34cd312f27fdebd3d34ee",
+            "title": "Impresión y Consumibles",
+            "link": "https://www.abasteo.mx/Impresion-Consumibles/",
+            "image": "https://www.abasteo.mx/out/pictures/master/category/icon/impresion-y-consumibles.png",
+            "parentId": "",
+            "subCategories": null,
+            "path": [],
+            "hasSubCategories": true
+        },
+        "51df16589416a": {
+            "id": "51df16589416a",
+            "title": "Almacenamiento de Datos",
+            "link": "https://www.abasteo.mx/Almacenamiento-de-Datos/",
+            "image": null,
+            "parentId": "",
+            "subCategories": null,
+            "path": [],
+            "hasSubCategories": true
+        },
+        "270c0e54729e270df8449fc968e4b222": {
+            "id": "270c0e54729e270df8449fc968e4b222",
+            "title": "Redes",
+            "link": "https://www.abasteo.mx/Redes/",
+            "image": "https://www.abasteo.mx/out/pictures/master/category/icon/redes.png",
+            "parentId": "",
+            "subCategories": null,
+            "path": [],
+            "hasSubCategories": true
+        },
+        "5078af1642916": {
+            "id": "5078af1642916",
+            "title": "Electrónica de Consumo",
+            "link": "https://www.abasteo.mx/Electronica-de-Consumo/",
+            "image": "https://www.abasteo.mx/out/pictures/master/category/icon/electronica-de-consumo.png",
+            "parentId": "",
+            "subCategories": null,
+            "path": [],
+            "hasSubCategories": true
+        },
+        "5b2bcecc87b09bb6571106df3c2c17e1": {
+            "id": "5b2bcecc87b09bb6571106df3c2c17e1",
+            "title": "Energía",
+            "link": "https://www.abasteo.mx/Energia/",
+            "image": "https://www.abasteo.mx/out/pictures/master/category/icon/energia.png",
+            "parentId": "",
+            "subCategories": null,
+            "path": [],
+            "hasSubCategories": true
+        },
+        "34b76f89df14c0052ada93b3280e0fcc": {
+            "id": "34b76f89df14c0052ada93b3280e0fcc",
+            "title": "Punto de Venta (POS)",
+            "link": "https://www.abasteo.mx/Punto-de-Venta-POS/",
+            "image": "https://www.abasteo.mx/out/pictures/master/category/icon/punto-de-venta.png",
+            "parentId": "",
+            "subCategories": null,
+            "path": [],
+            "hasSubCategories": true
+        },
+        "bcc531de382c38e93a2abcb88c4d92d0": {
+            "id": "bcc531de382c38e93a2abcb88c4d92d0",
+            "title": "Celulares y Telefonía",
+            "link": "https://www.abasteo.mx/Telecomunicacion/",
+            "image": "https://www.abasteo.mx/out/pictures/master/category/icon/telecom.png",
+            "parentId": "",
+            "subCategories": null,
+            "path": [],
+            "hasSubCategories": true
+        },
+        "7a19d8323c48c74d0096814104655d25": {
+            "id": "7a19d8323c48c74d0096814104655d25",
+            "title": "Software y Servicios",
+            "link": "https://www.abasteo.mx/Software-y-Servicios/",
+            "image": "https://www.abasteo.mx/out/pictures/master/category/icon/software-y-servicios.png",
+            "parentId": "",
+            "subCategories": null,
+            "path": [],
+            "hasSubCategories": true
+        },
+        "5075a20fbc7ea": {
+            "id": "5075a20fbc7ea",
+            "title": "Artículos de Oficina",
+            "link": "https://www.abasteo.mx/Articulos-de-Oficina/",
+            "image": "https://www.abasteo.mx/out/pictures/master/category/icon/articulos-de-oficina.png",
+            "parentId": "",
+            "subCategories": null,
+            "path": [],
+            "hasSubCategories": true
+        }
+    },
+    "breadCrumbs": [],
+    "shoppingTools": [
+        {
+            "cptitle": "Configurador de memoria",
+            "cplink": "https://www.abasteo.mx/Configurador-de-Memoria-Kingston/",
+            "cppicture_pdp": "https://www.cyberpuerta.mx/out/pictures/emstartcontentslider/ab_5ebb1162abf23.jpg",
+            "cppicture": "https://www.cyberpuerta.mx/out/pictures/emstartcontentslider/20200618_5eebd62637392.png",
+            "cpactive_from": "0000-00-00",
+            "cpactive_to": "0000-00-00",
+            "cpdescription": "Encuentre el producto Kingston que mejor se ajuste a sus necesidades.",
+            "f_oxmanufacturer": null,
+            "cpsort_order": "2",
+            "cpbutton_text": "Ir a configurador"
+        },
+        {
+            "cptitle": "Buscador de consumibles HP",
+            "cplink": "https://www.abasteo.mx/hp-buscador-de-consumibles/",
+            "cppicture_pdp": "https://www.cyberpuerta.mx/out/pictures/emstartcontentslider/ab_5ebb0a0dcbfd5.jpg",
+            "cppicture": "https://www.cyberpuerta.mx/out/pictures/emstartcontentslider/hp-buscador-hometool.png",
+            "cpactive_from": "2019-11-26",
+            "cpactive_to": "0000-00-00",
+            "cpdescription": "Encuentra fácilmente el tóner o cartucho que requieres para tu impresora HP.",
+            "f_oxmanufacturer": null,
+            "cpsort_order": "2",
+            "cpbutton_text": "Ir a buscador"
+        },
+        {
+            "cptitle": "Configurador de conectividad",
+            "cplink": "http://www.abasteo.mx/Configurador-Startech-com/",
+            "cppicture_pdp": "https://www.cyberpuerta.mx/out/pictures/emstartcontentslider/ab_5ebb10e85d792.jpg",
+            "cppicture": "https://www.cyberpuerta.mx/out/pictures/emstartcontentslider/530cbd545e662-5453badb4a360.png",
+            "cpactive_from": "0000-00-00",
+            "cpactive_to": "0000-00-00",
+            "cpdescription": "Conozca el cable o adaptador adecuado para sus necesidades de conexión.",
+            "f_oxmanufacturer": null,
+            "cpsort_order": "3",
+            "cpbutton_text": "Ir a configurador"
+        },
+        {
+            "cptitle": "Connect-Pro",
+            "cplink": "https://www.abasteo.mx/connect-pro/",
+            "cppicture_pdp": "https://www.cyberpuerta.mx/out/pictures/emstartcontentslider/ab_5ef215c70e108.png",
+            "cppicture": "https://www.cyberpuerta.mx/out/pictures/emstartcontentslider/20200622_5ef12cb7b2ecd.png",
+            "cpactive_from": "2020-06-01",
+            "cpactive_to": "2027-03-10",
+            "cpdescription": "Encuentra el producto que necesitas",
+            "f_oxmanufacturer": null,
+            "cpsort_order": "4",
+            "cpbutton_text": "Ir a buscador"
+        },
+        {
+            "cptitle": "Tripp Lite Cable Finder",
+            "cplink": "https://www.abasteo.mx/Tripp-Lite-Cable-Finder/",
+            "cppicture_pdp": "https://www.cyberpuerta.mx/out/pictures/emstartcontentslider/ab_5ebb119325d07.jpg",
+            "cppicture": "https://www.cyberpuerta.mx/out/pictures/emstartcontentslider/tripplite-cable-finder.png",
+            "cpactive_from": "0000-00-00",
+            "cpactive_to": "0000-00-00",
+            "cpdescription": "Encuentra el cable que necesita en dos sencillos pasos.",
+            "f_oxmanufacturer": null,
+            "cpsort_order": "5",
+            "cpbutton_text": "Ir a buscador"
+        }
+    ],
+    "countdown": 1708927200,
+    "featuredCategories": [
+        {
+            "cat": {
+                "oxid": "4fe38c01729fcabasteo",
+                "name": "Desktop y Portátiles",
+                "link": "https://www.abasteo.mx/Desktop-y-Portatiles/",
+                "image": "https://www.abasteo.mx/out/pictures/master/category/icon/desktop-y-portatiles.png",
+                "parent": ""
+            },
+            "prod": "6772c0e8522cc41b7a7c585feb90ba6d",
+            "subCats": [
+                {
+                    "name": "Desktop y Portátiles",
+                    "link": "https://www.abasteo.mx/Desktop-y-Portatiles/"
+                },
+                {
+                    "name": "PC's de Escritorio",
+                    "link": "https://www.abasteo.mx/Desktop-y-Portatiles/PC-s-de-Escritorio/"
+                },
+                {
+                    "name": "Workstations",
+                    "link": "https://www.abasteo.mx/Desktop-y-Portatiles/Workstations/"
+                },
+                {
+                    "name": "Laptops",
+                    "link": "https://www.abasteo.mx/Desktop-y-Portatiles/Laptops/"
+                },
+                {
+                    "name": "Tablets",
+                    "link": "https://www.abasteo.mx/Desktop-y-Portatiles/Tabletas/Tabletas/"
+                },
+                {
+                    "name": "All in One",
+                    "link": "https://www.abasteo.mx/Desktop-y-Portatiles/All-in-One/"
+                }
+            ]
+        },
+        {
+            "cat": {
+                "oxid": "08267a3e1268133fbfb699cee1a459d9",
+                "name": "Cómputo y Hardware",
+                "link": "https://www.abasteo.mx/Computo-y-Hardware/",
+                "image": "https://www.abasteo.mx/out/pictures/master/category/icon/computo-hardware.png",
+                "parent": ""
+            },
+            "prod": "766452afffea22ca963e32932ae63473",
+            "subCats": [
+                {
+                    "name": "Cómputo y Hardware",
+                    "link": "https://www.abasteo.mx/Computo-y-Hardware/"
+                },
+                {
+                    "name": "Mouse",
+                    "link": "https://www.abasteo.mx/Computo-y-Hardware/Dispositivos-de-Entrada/Mouse/"
+                },
+                {
+                    "name": "Memorias RAM para PC",
+                    "link": "https://www.abasteo.mx/Computo-y-Hardware/Memorias-RAM-y-Flash/Memorias-RAM-para-PC/"
+                },
+                {
+                    "name": "Discos Duros Internos para PC",
+                    "link": "https://www.abasteo.mx/Computo-y-Hardware/Discos-Duros-SSD-NAS/Discos-Duros-Internos-para-PC/"
+                },
+                {
+                    "name": "Monitores",
+                    "link": "https://www.abasteo.mx/Computo-y-Hardware/Monitores/Monitores/"
+                }
+            ]
+        },
+        {
+            "cat": {
+                "oxid": "9645fcbbdab34cd312f27fdebd3d34ee",
+                "name": "Impresión y Consumibles",
+                "link": "https://www.abasteo.mx/Impresion-Consumibles/",
+                "image": "https://www.abasteo.mx/out/pictures/master/category/icon/impresion-y-consumibles.png",
+                "parent": ""
+            },
+            "prod": "24fcbd2cd7eafaaac376bbb73be6ca36",
+            "subCats": [
+                {
+                    "name": "Impresión y Consumibles",
+                    "link": "https://www.abasteo.mx/Impresion-Consumibles/"
+                },
+                {
+                    "name": "Multifuncionales",
+                    "link": "https://www.abasteo.mx/Impresion-Consumibles/Impresoras-y-Multifuncionales/Multifuncionales/"
+                },
+                {
+                    "name": "Impresoras",
+                    "link": "https://www.abasteo.mx/Impresion-Consumibles/Impresoras-y-Multifuncionales/Impresoras/"
+                },
+                {
+                    "name": "Cartuchos",
+                    "link": "https://www.abasteo.mx/Impresion-Consumibles/Consumibles-para-Impresoras/Cartuchos/"
+                },
+                {
+                    "name": "Tóner",
+                    "link": "https://www.abasteo.mx/Impresion-Consumibles/Consumibles-para-Impresoras/Toner/"
+                }
+            ]
+        },
+        {
+            "cat": {
+                "oxid": "51df16589416a",
+                "name": "Almacenamiento de Datos",
+                "link": "https://www.abasteo.mx/Almacenamiento-de-Datos/",
+                "image": "",
+                "parent": ""
+            },
+            "prod": "97b4932c597b825eaf13f764d85b5136",
+            "subCats": [
+                {
+                    "name": "Almacenamiento de Datos",
+                    "link": "https://www.abasteo.mx/Almacenamiento-de-Datos/"
+                },
+                {
+                    "name": "Servidores",
+                    "link": "https://www.abasteo.mx/Almacenamiento-de-Datos/Servidores/"
+                },
+                {
+                    "name": "SSD",
+                    "link": "https://www.abasteo.mx/Almacenamiento-de-Datos/Discos-Duros-SSD-NAS/SSD/"
+                },
+                {
+                    "name": "Memorias Flash",
+                    "link": "https://www.abasteo.mx/Almacenamiento-de-Datos/Memoria-Flash-Media/Memorias-Flash/"
+                },
+                {
+                    "name": "Memorias USB",
+                    "link": "https://www.abasteo.mx/Almacenamiento-de-Datos/Memoria-Flash-Media/Memorias-USB/"
+                },
+                {
+                    "name": "Discos Duros Externos",
+                    "link": "https://www.abasteo.mx/Almacenamiento-de-Datos/Discos-Duros-SSD-NAS/Discos-Duros-Externos/"
+                }
+            ]
+        },
+        {
+            "cat": {
+                "oxid": "270c0e54729e270df8449fc968e4b222",
+                "name": "Redes",
+                "link": "https://www.abasteo.mx/Redes/",
+                "image": "https://www.abasteo.mx/out/pictures/master/category/icon/redes.png",
+                "parent": ""
+            },
+            "prod": "2d58621897722509141f0910e1104ae6",
+            "subCats": [
+                {
+                    "name": "Redes",
+                    "link": "https://www.abasteo.mx/Redes/"
+                },
+                {
+                    "name": "Access Points",
+                    "link": "https://www.abasteo.mx/Redes/Access-Points/"
+                },
+                {
+                    "name": "Adaptadores de Red USB",
+                    "link": "https://www.abasteo.mx/Redes/Adaptadores-de-Red-USB/"
+                },
+                {
+                    "name": "Switches",
+                    "link": "https://www.abasteo.mx/Redes/Switches/"
+                }
+            ]
+        },
+        {
+            "cat": {
+                "oxid": "5078af1642916",
+                "name": "Electrónica de Consumo",
+                "link": "https://www.abasteo.mx/Electronica-de-Consumo/",
+                "image": "https://www.abasteo.mx/out/pictures/master/category/icon/electronica-de-consumo.png",
+                "parent": ""
+            },
+            "prod": "4ebf52af22e334aac462a964a54aaca3",
+            "subCats": [
+                {
+                    "name": "Electrónica de Consumo",
+                    "link": "https://www.abasteo.mx/Electronica-de-Consumo/"
+                },
+                {
+                    "name": "Proyección",
+                    "link": "https://www.abasteo.mx/Electronica-de-Consumo/Proyeccion/"
+                },
+                {
+                    "name": "Audífonos",
+                    "link": "https://www.abasteo.mx/Electronica-de-Consumo/Audio-y-MP3/Audifonos/"
+                },
+                {
+                    "name": "Bocinas",
+                    "link": "https://www.abasteo.mx/Electronica-de-Consumo/Audio-y-MP3/Bocinas/"
+                },
+                {
+                    "name": "Pantallas",
+                    "link": "https://www.abasteo.mx/Electronica-de-Consumo/TV-y-Pantallas/Pantallas/"
+                },
+                {
+                    "name": "Cámaras  digitales",
+                    "link": "https://www.abasteo.mx/Electronica-de-Consumo/Foto-y-Video/Camaras-digitales/"
+                }
+            ]
+        },
+        {
+            "cat": {
+                "oxid": "5b2bcecc87b09bb6571106df3c2c17e1",
+                "name": "Energía",
+                "link": "https://www.abasteo.mx/Energia/",
+                "image": "https://www.abasteo.mx/out/pictures/master/category/icon/energia.png",
+                "parent": ""
+            },
+            "prod": "dee9da43e50af6f358aef4f510e70f6f",
+            "subCats": [
+                {
+                    "name": "Energía",
+                    "link": "https://www.abasteo.mx/Energia/"
+                },
+                {
+                    "name": "Supresores de Picos",
+                    "link": "https://www.abasteo.mx/Energia/Proteccion-Contra-Descargas/Supresores-de-Picos/"
+                },
+                {
+                    "name": "Reguladores de Voltaje",
+                    "link": "https://www.abasteo.mx/Energia/Proteccion-Contra-Descargas/Reguladores-de-Voltaje/"
+                },
+                {
+                    "name": "Pilas",
+                    "link": "https://www.abasteo.mx/Energia/Adaptadores-Cargadores-y-Pilas/Pilas/"
+                },
+                {
+                    "name": "No Break",
+                    "link": "https://www.abasteo.mx/Energia/No-Break-UPS/No-Break/"
+                }
+            ]
+        },
+        {
+            "cat": {
+                "oxid": "34b76f89df14c0052ada93b3280e0fcc",
+                "name": "Punto de Venta (POS)",
+                "link": "https://www.abasteo.mx/Punto-de-Venta-POS/",
+                "image": "https://www.abasteo.mx/out/pictures/master/category/icon/punto-de-venta.png",
+                "parent": ""
+            },
+            "prod": "0a66cf2d7793021fe2296f8cac0656a3",
+            "subCats": [
+                {
+                    "name": "Punto de Venta (POS)",
+                    "link": "https://www.abasteo.mx/Punto-de-Venta-POS/"
+                },
+                {
+                    "name": "Lectores de Código de Barras",
+                    "link": "https://www.abasteo.mx/Punto-de-Venta-POS/Lectores-y-Terminales/Lectores-de-Codigo-de-Barras/"
+                },
+                {
+                    "name": "Terminales Portátiles",
+                    "link": "https://www.abasteo.mx/Punto-de-Venta-POS/Lectores-y-Terminales/Terminales-Portatiles/"
+                },
+                {
+                    "name": "Cajones de dinero",
+                    "link": "https://www.abasteo.mx/Punto-de-Venta-POS/Cajones-de-dinero/"
+                },
+                {
+                    "name": "Sistemas POS",
+                    "link": "https://www.abasteo.mx/Punto-de-Venta-POS/Sistemas-POS/"
+                }
+            ]
+        },
+        {
+            "cat": {
+                "oxid": "bcc531de382c38e93a2abcb88c4d92d0",
+                "name": "Celulares y Telefonía",
+                "link": "https://www.abasteo.mx/Telecomunicacion/",
+                "image": "https://www.abasteo.mx/out/pictures/master/category/icon/telecom.png",
+                "parent": ""
+            },
+            "prod": "ca9ecff8e26c22c258b1a29056959145",
+            "subCats": [
+                {
+                    "name": "Celulares y Telefonía",
+                    "link": "https://www.abasteo.mx/Telecomunicacion/"
+                },
+                {
+                    "name": "Teléfonos VoIP",
+                    "link": "https://www.abasteo.mx/Telecomunicacion/Telefonia-VoIP/Telefonos-VoIP/"
+                },
+                {
+                    "name": "Sistemas de Conferencia",
+                    "link": "https://www.abasteo.mx/Telecomunicacion/Sistemas-para-Conferencias/Sistemas-de-Conferencia/"
+                }
+            ]
+        },
+        {
+            "cat": {
+                "oxid": "7a19d8323c48c74d0096814104655d25",
+                "name": "Software y Servicios",
+                "link": "https://www.abasteo.mx/Software-y-Servicios/",
+                "image": "https://www.abasteo.mx/out/pictures/master/category/icon/software-y-servicios.png",
+                "parent": ""
+            },
+            "prod": "da7e63ca6a6f97e738cd676f6aea6dab",
+            "subCats": [
+                {
+                    "name": "Software y Servicios",
+                    "link": "https://www.abasteo.mx/Software-y-Servicios/"
+                },
+                {
+                    "name": "Antivirus",
+                    "link": "https://www.abasteo.mx/Software-y-Servicios/Antivirus/"
+                },
+                {
+                    "name": "Sistemas Operativos",
+                    "link": "https://www.abasteo.mx/Software-y-Servicios/Sistemas-Operativos/"
+                },
+                {
+                    "name": "Microsoft Office",
+                    "link": "https://www.abasteo.mx/Software-y-Servicios/Microsoft-Office/"
+                }
+            ]
+        },
+        {
+            "cat": {
+                "oxid": "5075a20fbc7ea",
+                "name": "Artículos de Oficina",
+                "link": "https://www.abasteo.mx/Articulos-de-Oficina/",
+                "image": "https://www.abasteo.mx/out/pictures/master/category/icon/articulos-de-oficina.png",
+                "parent": ""
+            },
+            "prod": "fcc4a0594da18e675b0438fa08a24ee0",
+            "subCats": [
+                {
+                    "name": "Artículos de Oficina",
+                    "link": "https://www.abasteo.mx/Articulos-de-Oficina/"
+                },
+                {
+                    "name": "Sellos, Cojines y Tintas de Sello",
+                    "link": "https://www.abasteo.mx/Articulos-de-Oficina/Accesorios-para-Escritorio/Sellos-Cojines-y-Tintas-de-Sello/"
+                },
+                {
+                    "name": "Destructora de Papel",
+                    "link": "https://www.abasteo.mx/Articulos-de-Oficina/Accesorios-para-Escritorio/Destructora-de-Papel/"
+                },
+                {
+                    "name": "Pizarrones y Pantallas de Tripie",
+                    "link": "https://www.abasteo.mx/Articulos-de-Oficina/Muebles/Pizarrones-y-Pantallas-de-Tripie/"
+                },
+                {
+                    "name": "Archiveros",
+                    "link": "https://www.abasteo.mx/Articulos-de-Oficina/Muebles/Archiveros/"
+                }
+            ]
+        }
+    ],
+    "reviews": [
+        {
+            "name": "Jorge Luis Prado Palacios",
+            "body": "Ortiz Leos y compa&ntilde;&iacute;a., S.C. hemos encontrado en Abasteo una pr&aacute;ctica soluci&oacute;n a nuestras demandas de equipo y accesorios, una amable atenci&oacute;n y la posibilidad de analizar diferentes propuestas en un solo lugar. De todo, lo que m&aacute;s valoro es la atenci&oacute;n personalizada, r&aacute;pida y concreta, por lo que no tengo inconveniente en recomendar ampliamente comprar en Abasteo.",
+            "company": "Ortiz Leos y compa&ntilde;&iacute;a., S.C."
+        },
+        {
+            "name": "Horacio D&iacute;az",
+            "body": "Inulina y Miel de Agave realiza compras en Abasteo, debido a que nos brindan excelentes precios, &oacute;ptimo tiempo de entrega, calidad en diversas marcas y una gran variedad de productos.<br />\r\nLa atenci&oacute;n brindada por parte del personal es eficaz. Para nosotros como empresa es indispensable recibir un trato cordial, educado, resolutivo, eficiente, r&aacute;pido y personalizado.",
+            "company": "Inulina y Miel de Agave"
+        },
+        {
+            "name": "Yonathan David Marquez Siordia",
+            "body": "El contar con aliados en estos tiempos dif&iacute;ciles es de gran ayuda d&iacute;a a d&iacute;a, es por esto que con su aporte de confiabilidad y buen servicio es que sin duda Abasteo es nuestra principal recomendaci&oacute;n.",
+            "company": "Bradescard M&eacute;xico"
+        },
+        {
+            "name": "Alan Bedolla",
+            "body": "Gracias a la atenci&oacute;n dedicada y al gran cat&aacute;logo de productos, el contar con Abasteo como proveedor de soluciones tecnol&oacute;gicas ha facilitado nuestra operaci&oacute;n. Es muy c&oacute;modo trabajar con una contraparte que muestra flexibilidad y se preocupa por ofrecer el mejor servicio posible.",
+            "company": "Organizaci&oacute;n Internacional para las Migraciones"
+        },
+        {
+            "name": "Benjamin Monta&ntilde;o",
+            "body": "Desde 2013 Abasteo se convirti&oacute; en nuestro proveedor principal en equipos tecnol&oacute;gicos, esto porque manejan las mejores marcas del mercado con una gran variedad de productos y precios bajos, adem&aacute;s de un excelente servicio al cliente. Tambi&eacute;n por su p&aacute;gina ya que esta es muy amigable, cuenta con muchos filtros para la f&aacute;cil localizaci&oacute;n de productos y cada producto cuenta con bastante informaci&oacute;n t&eacute;cnica e im&aacute;genes ilustrativas.",
+            "company": "GrupoEi"
+        },
+        {
+            "name": "Paola Lara Monta&ntilde;o",
+            "body": "Estamos muy contentos con el servicio que nos han brindado durante el a&ntilde;o que llevamos como socios de negocios, la atenci&oacute;n, eficacia y amabilidad es lo que nos ha permitido seguir con Ustedes, nunca hemos tenido contratiempos de entrega y lo que pedimos es lo que nos llega, excelente calidad y sobre todo opciones  viables si no encontramos lo que buscamos, nos hemos dado cuenta de la capacitaci&oacute;n constante que tienen los ejecutivos y eso permite una atenci&oacute;n y servicios correctos.",
+            "company": "Shelo Nabel"
+        },
+        {
+            "name": "Juan Ram&iacute;rez",
+            "body": "Elegimos a Abasteo como nuestro proveedor principal de dispositivos TIC porque tiene gran variedad, excelente atenci&oacute;n al cliente, facturaci&oacute;n inmediata, env&iacute;o a domicilio y garant&iacute;a.",
+            "company": "M&eacute;dicos Sin Fronteras"
+        },
+        {
+            "name": "Itzel Espinosa",
+            "body": "En Marsam elegimos Abasteo porque hemos crecido juntos, por eso llevamos a&ntilde;os de excelente servicio, tanto en atenci&oacute;n, precios, entregas y soluciones; no te venden por vender, nos buscan siempre lo mejor en calidad-precio y los tiempos de respuesta son cortos.",
+            "company": "Marsam Solar"
+        },
+        {
+            "name": "Ana Felix",
+            "body": "Comprar en Abasteo usualmente suele ser una forma pr&aacute;ctica y f&aacute;cil de adquirir nuestra mercanc&iacute;a. El excelente trato por parte de los colaboradores de Abasteo hacen que la experiencia sea m&aacute;s &aacute;gil y para nosotros como empresa, ese suele ser un factor determinante para validar a un proveedor; adem&aacute;s de que siempre nos han apoyado a resolver de manera pr&aacute;ctica cualquier contratiempo y/o inconveniente.",
+            "company": "Infinia Solutions &amp; Services, S.A. de C.V."
+        },
+        {
+            "name": "Rafael Alanis",
+            "body": "Abasteo es un proveedor que ha ganado mucha relevancia para nuestro departamento de TI, esto debido a que se ha desempe&ntilde;ado de una manera excepcional, con atenci&oacute;n personalizada, excelentes precios, calidad en el servicio.",
+            "company": "Idealease de M&eacute;xico"
+        }
+    ],
+    "certificates": [
+        {
+            "imageUrl": "https://www.abasteo.mx/out/pictures/cpCertificates/apc-2021.png",
+            "description": "APC Premier Partner"
+        },
+        {
+            "imageUrl": "https://www.abasteo.mx/out/pictures/cpCertificates/partner-logo.png",
+            "description": "Cisco Select Partner"
+        },
+        {
+            "imageUrl": "https://www.abasteo.mx/out/pictures/cpCertificates/Seagate_Partner_Program_RESELLER_Authorized_Stacked_POS_72DPI_2.png",
+            "description": "Seagate Partner Program Reseller Authorized."
+        },
+        {
+            "imageUrl": "https://www.abasteo.mx/out/pictures/cpCertificates/568d65adbc8d0_kingston_cert.jpg",
+            "description": "Certificado Kingston Reseller Level III"
+        },
+        {
+            "imageUrl": "https://www.abasteo.mx/out/pictures/cpCertificates/epson.png",
+            "description": "Certificación nivel ORO"
+        },
+        {
+            "imageUrl": "https://www.abasteo.mx/out/pictures/cpCertificates/EnGenius.png",
+            "description": "Engenius Certified Partner"
+        },
+        {
+            "imageUrl": "https://www.abasteo.mx/out/pictures/cpCertificates/578e7aff9bd41_microsoft-aep3.png",
+            "description": "Microsoft Authorized Education Partner"
+        },
+        {
+            "imageUrl": "https://www.abasteo.mx/out/pictures/cpCertificates/Intel-gold-partner.jpg",
+            "description": "Intel partner Gold 2021"
+        },
+        {
+            "imageUrl": "https://www.abasteo.mx/out/pictures/cpCertificates/DT_PlatinumPartner_4C.jpg",
+            "description": "DELL TECHNOLOGIES PLATINUM PARTNER"
+        },
+        {
+            "imageUrl": "https://www.abasteo.mx/out/pictures/cpCertificates/Gold Performance Partner Gray .jpg",
+            "description": "Honeywell Gold Level Partner 2022"
+        },
+        {
+            "imageUrl": "https://www.abasteo.mx/out/pictures/cpCertificates/HP-amplify-power-partner.png",
+            "description": "HP Amplify Power Partner"
+        }
+    ]
+}
+    </script>
+<!--sse-->
+<!-- Customizing Knowledge Graph: page-specific structured data -->
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","name":"Cyberpuerta, S.A. de C.V.","url":"https:\/\/www.cyberpuerta.mx\/","logo":"https:\/\/www.cyberpuerta.mx\/out\/cyberpuertaV5\/img\/logo2.png","contactPoint":[{"@type":"ContactPoint","telephone":"+52-33 4737 1360","contactType":"customer service"},{"@type":"ContactPoint","telephone":"+52-55 4737 1360","contactType":"customer service"},{"@type":"ContactPoint","telephone":"+52-81 4737 1360","contactType":"customer service"}],"sameAs":["http:\/\/www.facebook.com\/Cyberpuerta.mx","http:\/\/twitter.com\/CyberPuerta"]}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"https:\/\/www.abasteo.mx\/","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.abasteo.mx\/index.php?cl=search&searchparam={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!--/sse-->    
+<!-- legacy -->
+<script type="application/json" id="cp-form-data">
+        {"selfLink":"https:\/\/www.abasteo.mx\/index.php","anid":"","loadId":""}
+    </script>
+<!-- cdn fonts (we use them locally in storybook) -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons&display=block">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap">
+<!-- for some reason we use swiper in this way, we should not -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.8.0/swiper-bundle.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.8.0/swiper-bundle.min.css">
+<!-- jquery will soon be removed from our site -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.hoverintent/1.10.1/jquery.hoverIntent.min.js"></script>
+<!-- google sign in button -->
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+<!-- deprecated libraries -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.5.3/js/foundation.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.27.0/moment.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.27.0/locale/es.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.26/moment-timezone-with-data-10-year-range.min.js"></script>
+<link data-cp-orig="main.css" rel="stylesheet" href="/out/dist/main.c182349eb739af5fd69f.g.css">
+<script data-cp-orig="main.js" src="/out/dist/main.9387d9a3dbf5b25ba89f.js"></script>
+<script>/*this helps phpstorm or any other editor to recognize the below code as javascript.*/
+// Google Tag Manager
+
+    window.dataLayer = window.dataLayer || [];
+    const loginCookie = '';
+
+            dataLayer.push(
+        {"shop_cl":"start"}
+    );
+        dataLayer.push(
+        {"ab1047_pixel":0}
+    );
+        dataLayer.push(
+        {"sess_tk":"BCFBF865"}
+    );
+        dataLayer.push(
+        {"internal_user":0}
+    );
+        dataLayer.push(
+        {"new_customer":false}
+    );
+    
+
+                    dataLayer.push({
+            'Referer': 'https://search.brave.com/'
+        });
+        dataLayer.push({
+            'firstaccess': 'y'
+        });
+            
+    // If is a search page or is a category/manufacturer page but comes from a search
+            // ALL-811 send url path on 404 pages
+        let url_path = window.location.pathname;
+        // remove slash at the end
+        url_path = url_path.replace(/\/$/g, '')
+
+                                url_path = '/start';
+                                            url_path += ' - Abasteo';
+                    
+        dataLayer.push({
+            'event': 'pageview',
+            'pageview': url_path
+        });
+
+    
+        
+    dataLayer.push({
+        'ecomm_prodid': '',
+        'ecomm_totalvalue': 0,
+        'nl': 'n'
+    });
+
+    //Google Recommendations AI home-page-view
+    const homePageView = {
+        'cloud_retail': {
+            'eventType': 'home-page-view',
+        }
+    };
+    if (loginCookie) homePageView.cloud_retail.userInfo = { userId: loginCookie };
+    dataLayer.push(homePageView);
+
+
+// todo: migrate to cpx
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P52LQL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),'event':'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-P52LQL');
+
+
+
+    
+    
+
+        
+
+    
+
+// End Google Tag Manager
+</script>                    
+<script>/*this helps phpstorm or any other editor to recognize the below code as javascript.*/
+    window.dataLayer = window.dataLayer || [];
+    // Criteo 2016 Begin (AB-223 angie)
+    window.dataLayer.push({
+        'criteo_data': [{"event":"setAccount","account":15562},{"event":"setSiteType","type":"d"},{"event":"setHashedEmail","email":""},{"event":"viewHome"}]
+    });
+</script>    </head>
+  <!-- OXID eShop Community Edition, Version 4, Shopping Cart System (c) OXID eSales AG 2003 - 2024 - http://www.oxid-esales.com -->
+<body>
+<div data-cp-vue-bind="c-page"
+data-cp-cms-emstartpagewelcome="&lt;span style=&quot;line-height: 24px;&quot;&gt;Abasteo es el proveedor l&iacute;der de soluciones en tecnolog&iacute;a de la informaci&oacute;n, para usted y su empresa. Contamos con m&aacute;s de 40,000 productos de TI que abarcan distintas categor&iacute;as como: 
+&lt;a href=&quot;https://www.abasteo.mx/Computo-y-Hardware/&quot;&gt;c&oacute;mputo&lt;/a&gt;, 
+&lt;a href=&quot;https://www.abasteo.mx/Redes/&quot;&gt;redes&lt;/a&gt;, 
+&lt;a href=&quot;https://www.abasteo.mx/Computo-y-Hardware/Servidores/&quot;&gt;servidores&lt;/a&gt; y 
+&lt;a href=&quot;https://www.abasteo.mx/Seguridad-Vigilancia/&quot;&gt;seguridad&lt;/a&gt;, 
+lo que le permite a su departamento de compras o sistemas encontrar todo lo que busca de electr&oacute;nica en un solo e-commerce.
+&lt;br&gt;&lt;br&gt;
+En nuestro portal podr&aacute; realizar 
+&lt;a href=&quot;https://www.abasteo.mx/Guia-para-crear-Cotizaciones/&quot;&gt;cotizaciones para su empresa de una forma r&aacute;pida, c&oacute;moda y segura&lt;/a&gt;. 
+Adicionalmente, si requiere asesor&iacute;a para hacer una mejor compra o requiere descuento por volumen, nuestros ejecutivos especializados podr&aacute;n ayudarle. Nuestro excelente servicio, entrega puntual y tecnolog&iacute;a a la vanguardia nos han distinguido a lo largo de los a&ntilde;os y posicionado como uno de los principales sitios de internet en M&eacute;xico para comprar tecnolog&iacute;a.&lt;/span&gt;"
+></div>
+<div hidden id="cpx_footer_1_5_workaround">
+<div class=""><!--cms:footer_1_5_cpx--><div style="width:100%; height: 168px; text-align:center; border:1px solid #FFF; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; ">
+<table width="100%" border="0" cellpadding="4" cellspacing="0" style="margin: auto;" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications."><tr>
+<td>
+<a href="https://sellosdeconfianza.org.mx/MuestraCertificado.php?NUMERO_SERIE=MD_v233" onclick="newWindow=window.open('https://sellosdeconfianza.org.mx/MuestraCertificado.php?NUMERO_SERIE=MD_v233', 'Certificado', 'width=520,height=690,left=150,top=70,toolbar=0,menuBar=0,scrollBars=0 resizable=0' ); newWindow.focus(); return false;" target="_blank">
+<img alt="Sello de confianza" src="https://www.cyberpuerta.mx/out/pictures/cms/trust/adi2020.png" style="margin-top:44px; width: 160px; " /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style="width:100%; height: 168px; text-align:center; border:1px solid #FFF; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; ">
+<table width="100%" border="0" cellpadding="4" cellspacing="0" style="margin: auto; margin-top: 30px;" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications."><tr>
+<td width="50%" align="center" valign="top">
+<!-- DigiCert Seal HTML -->
+<!-- Place HTML on your site where the seal should appear -->
+<div id="DigiCertClickID_5BDQm-O2"></div>
+<!-- DigiCert Seal Code -->
+<!-- Place with DigiCert Seal HTML or with other scripts -->
+<script type="text/javascript">
+var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_5BDQm-O2", "15", "m", "black", "5BDQm-O2"]);(function(){var cid=document.createElement("script");cid.async=true;cid.src="//seal.digicert.com/seals/cascade/seal.min.js";var s = document.getElementsByTagName("script");var ls = s[(s.length - 1)];ls.parentNode.insertBefore(cid, ls.nextSibling);}());
+</script>
+</td>
+</tr>
+</table>
+</div></div>
+</div>
+<script>(function(){var js = "window['__CF$cv$params']={r:'85b40fab38d37ead',t:'MTcwODkwNzIzNS4zODEwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
